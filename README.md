@@ -1,4 +1,4 @@
-# NCU Letter od Recommendation Template
+# NCU Letter of Recommendation Template
 
 A modified LaTex Template of Recommendation/Reference Letter for National Central University (NCU).
 
