@@ -1,14 +1,9 @@
-%
-% This class based on "brownletter.cls" Copyright 2003, Nesime Tatbul (tatbul@cs.brown.edu)
-%
-% This version modifications by Huang Weiran 
-% (huangweiran1998@outlook.com), 28 October 2019
-% 
-% New version modifications by Fanchao Chen
-% (chenfanchao_robin@outlook.com), 23 October 2021
-% 
-% New version modifications by Jen-tse Huang
-% (jthuang@cse.cuhk.edu.hk), 6 April 2024
+% --------------------------------
+% NCU Letter of Recommendation in Latex
+% Author Chun-Ho (Hugo) Lin (1chooo) <hugo970217@gmail.com>
+% License : MIT
+% This class based on "brownletter.cls" Copyright 2003, Nesime Tatbul (tatbul@cs.brown.edu) and referenced "CUHKletter.cls" by CUHK Letter: https://www.overleaf.com/latex/templates/cuhk-letter/vpytvfwqbjmg
+% --------------------------------
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{NCULetter}
